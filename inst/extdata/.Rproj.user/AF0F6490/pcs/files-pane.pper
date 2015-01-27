@@ -1,0 +1,9 @@
+{
+    "path" : "~/Edx/Statistics and R for the Life Sciences/dagdata/inst/extdata",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
